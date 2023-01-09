@@ -1,0 +1,66 @@
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\appsettings.json
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\server.exe
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\server.deps.json
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\server.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\server.pdb
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\server.csproj.CopyComplete
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\server.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\refint\server.dll
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\server.pdb
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\libi\Documents\רופין\שנה ד\איטרנטי 2\מבחן אמצע\למבחן\206792392\server\server\server\obj\Debug\net6.0\ref\server.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\server.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\refint\server.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\server.pdb
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\appsettings.json
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\server.exe
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\server.deps.json
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\server.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\server.pdb
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\server.csproj.CopyComplete
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\libi\Documents\רופין\שנה ד\אפליקציות\מטלות\מטלה 3\hw3_react\server\server\server\obj\Debug\net6.0\ref\server.dll
